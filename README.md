@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvaro Cuba</h1>
 <h3 align="center">Desarrollador especializado en Backend e Inteligencia Artificial,</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djalvarocuba" alt="djalvarocuba" /></a> </p>
+
 
 - 🌱 I’m currently learning **IA**
 
