@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvaro Cuba</h1>
-<h3 align="center">Desarrollador especializado en Backend e Inteligencia Artificial,</h3>
+<h3 align="center">Devops especializado en Backend e Inteligencia Artificial,ciberseguridad</h3>
 
 
 
