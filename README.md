@@ -2,59 +2,63 @@
 <h3 align="center">DevOps Engineer | Backend Developer | AI & Cybersecurity Enthusiast</h3>
 
 <p align="center">
-Passionate about building scalable systems, automating infrastructure, and developing intelligent solutions.
+Building scalable systems, automating infrastructure, and creating intelligent solutions.
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔧 DevOps especializado en automatización, CI/CD y cloud
-- 🧠 Enfocado en Backend, Inteligencia Artificial y Ciberseguridad
-- 🌱 Actualmente aprendiendo y profundizando en **Artificial Intelligence**
-- 🎯 Interesado en sistemas distribuidos, seguridad y arquitecturas modernas
-
----
-
-### 📫 Contact
-- ✉️ Email: **famousalvarocubaporras@gmail.com**
-
----
-
-### 🌐 Connect with me
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/alvarocubaporras" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://fb.com/alvaro.cuba.developer" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+<a href="mailto:famousalvarocubaporras@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-Python • Java • JavaScript • TypeScript • PHP • Kotlin
-
-#### ⚙️ Backend & Frameworks
-Django • Flask • Laravel • Spring • Node.js
-
-#### ☁️ DevOps & Cloud
-Docker • Git • CI/CD • Heroku
-
-#### 🗄️ Databases
-MySQL • PostgreSQL • MongoDB • SQL Server • Oracle • SQLite
-
-#### 🎨 Frontend & Tools
-React • TailwindCSS • Bootstrap • HTML • CSS • Figma
-
-#### 🔧 Others
-Firebase • Postman • Jest • Android
+## 🚀 About Me
+- 🔧 DevOps enfocado en automatización, CI/CD y cloud
+- 🧠 Especializado en Backend, IA y Ciberseguridad
+- 🌱 Actualmente aprendiendo **Artificial Intelligence**
+- ⚡ Interesado en sistemas distribuidos y arquitecturas escalables
 
 ---
 
-### ⚡ GitHub Philosophy
-> “Build scalable systems, automate everything, and never stop learning.”
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,kotlin" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,laravel,spring,nodejs" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,heroku" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" />
+</p>
 
 ---
+
+## 📫 Contact
+- ✉️ **famousalvarocubaporras@gmail.com**
+
+---
+
+## ⚡ Philosophy
+> “Automate everything. Build scalable systems. Keep learning.”
